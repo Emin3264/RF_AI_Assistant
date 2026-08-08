@@ -14,8 +14,7 @@ Bu proje, **Microsoft Foundry Local** mimarisini ve **RAG (Retrieval-Augmented G
 - **LLM Runtime:** Microsoft Foundry Local SDK (`phi-3.5-mini`)
 - **Embedding Modeli:** `paraphrase-multilingual-MiniLM-L12-v2` (SentenceTransformers)
 - **Veritabanı:** SQLite3
-- **PDF Okuyucu:** `pypdf`
-
+-Text Okuyucu: Python open() / built-in
 ## 🚀 Kurulum ve Çalıştırma
 
 1. **Gerekli Kütüphaneleri Yükleyin:**
